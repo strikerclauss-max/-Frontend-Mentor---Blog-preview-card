@@ -43,7 +43,7 @@ a {
   font-size: 19px;
   font-weight: 800;
   border-radius: 5px;
-  text-decoration: none;
+  text-decoration: underline;
   background-color: hsl(47, 88%, 63%);
   color: hsl(0, 0%, 7%);
   margin-bottom: 0px;
@@ -100,3 +100,5 @@ ul {
     padding: 22px;
   }
 }
+
+ 
