@@ -12,11 +12,14 @@ body {
   align-items: center;
   min-height: 100vh;
   margin: 0;
+  padding: 24px;
+  box-sizing: border-box;
   font-family: "Figtree", sans-serif;
 }
 
 .card {
-  width: 370px;
+  width: 100%;
+  max-width: 384px;
   background-color: hsl(0, 0%, 100%);
   border-radius: 16px;
   border: 1px solid hsl(0, 0%, 7%);
@@ -91,14 +94,3 @@ ul {
   font-size: 15px;
   padding-left: 11px;
 }
-
-@media (min-width: 1440px) {
-  .card {
-    width: 320px;
-    min-width: 320px;
-    max-width: 320px;
-    padding: 22px;
-  }
-}
-
- 

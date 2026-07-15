@@ -27,4 +27,4 @@ J'ai appris à importer des polices d'écriture locales avec `@font-face` et à 
 ## Auteur
 
 - Mon GitHub : [https://github.com/strikerclauss-max]
-- Mon profil Frontend Mentor : [https://www.frontendmentor.io/profile/Michael90-star]
+- Mon profil Frontend Mentor : [https://www.frontendmentor.io/profile/strikerclauss-max]
